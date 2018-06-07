@@ -43,7 +43,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var thirdViewTapGestureRecognizer: UITapGestureRecognizer!
     @IBOutlet weak var thirdViewDoubleTapGestureRecognizer: UITapGestureRecognizer!
     @IBOutlet weak var fourthViewTapGestureRecognizer: UITapGestureRecognizer!
-    //@IBOutlet weak var fourthViewDoubleTapGestureRecognizer: UITapGestureRecognizer!
+    @IBOutlet weak var fourthViewDoubleTapGestureRecognizer: UITapGestureRecognizer!
     
 // MARK: 制約のoutlet接続
     // 制約のoutletCollection接続 portrait
